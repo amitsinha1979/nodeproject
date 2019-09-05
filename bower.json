@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "amitsinha"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/amitsinha1979/nodeproject",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
